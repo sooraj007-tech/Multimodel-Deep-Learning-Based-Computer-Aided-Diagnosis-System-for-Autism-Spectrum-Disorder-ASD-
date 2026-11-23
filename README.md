@@ -68,3 +68,20 @@ This project is developed solely for educational and academic purposes.
 
 It is not intended to diagnose, screen for, or replace professional assessment of Autism Spectrum Disorder. No medical decisions should be made using this application.
 
+##INSTALLATION GUIDE
+
+## Download the Complete Project
+
+The complete project is available as a compressed `.7z` archive through GitHub Releases.
+
+### Download Instructions
+
+1. Open the [Early Autism Detection v1.0.0 Release](https://github.com/sooraj007-tech/Multimodel-Deep-Learning-Based-Computer-Aided-Diagnosis-System-for-Autism-Spectrum-Disorder-ASD-/releases/tag/v1.0.0).
+2. Scroll down to the **Assets** section.
+3. Download `Autism.disorder.detection.7z` (approximately 1.01 GB).
+4. After downloading, extract the archive using [7-Zip](https://www.7-zip.org/) or another application that supports `.7z` files.
+5. Open the extracted folder to access the project files.
+
+**Important:** Download `Autism.disorder.detection.7z` for the complete project. GitHub's automatically generated `Source code (zip)` and `Source code (tar.gz)` files are not the complete packaged project archive.
+
+[Direct Download – Complete Project](https://github.com/sooraj007-tech/Multimodel-Deep-Learning-Based-Computer-Aided-Diagnosis-System-for-Autism-Spectrum-Disorder-ASD-/releases/download/v1.0.0/Autism.disorder.detection.7z)
