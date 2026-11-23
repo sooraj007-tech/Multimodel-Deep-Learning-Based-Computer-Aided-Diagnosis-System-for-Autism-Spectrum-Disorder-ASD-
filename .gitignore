@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# User database and uploaded files
+users.db
+*.sqlite
+*.sqlite3
+uploads/
+
+# Datasets and generated data
+dataset/
+dataset_cropped/
+video_dataset/
+video_frames_dataset/
+video_frames/
+Test/
+
+# Trained model binaries
+*.h5
+*.keras
+*.weights.h5
+
+# Archives
+*.zip
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
