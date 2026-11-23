@@ -68,7 +68,7 @@ This project is developed solely for educational and academic purposes.
 
 It is not intended to diagnose, screen for, or replace professional assessment of Autism Spectrum Disorder. No medical decisions should be made using this application.
 
-##INSTALLATION GUIDE
+## Installation Guide
 
 ## Download the Complete Project
 
